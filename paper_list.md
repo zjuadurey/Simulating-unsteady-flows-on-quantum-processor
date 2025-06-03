@@ -23,3 +23,12 @@ Quantum Speedup for Aeroscience and Engineering
 
 https://link.springer.com/article/10.1007/s12046-024-02660-3
 用量子计算模拟流体流动（2025最新）
+
+<https://www.sciencedirect.com/science/article/pii/S0045793024003074>
+格子气元胞自动机
+
+<https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.032603>
+量子偏微分方程的模拟：应用与详细分析
+
+<https://arxiv.org/abs/2212.13969?_gl=1*gr4ibm*_ga*MjA0NjA4NDA4Ni4xNzQ4OTM3OTM4*_ga_ZS5V2B2DR1*czE3NDg5Mzc5MzckbzEkZzAkdDE3NDg5Mzc5MzckajYwJGwwJGgxMzM3OTg4Mjg4>
+和上篇有关，不过专注于薛定谔化偏微分方程
