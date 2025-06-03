@@ -16,5 +16,10 @@ Quantum Speedup for Aeroscience and Engineering
 量子计算加速空气动力和工程学研究
 
 <https://www.ias.ac.in/article/fulltext/conf/003/0010>
-
 量子流体力学计算
+
+<https://lxjz.cstam.org.cn/cn/article/doi/10.6052/1000-0992-24-041>
+流体力学量子计算研究进展(中文综述)
+
+https://link.springer.com/article/10.1007/s12046-024-02660-3
+用量子计算模拟流体流动（2025最新）
